@@ -1,0 +1,13 @@
+
+2.60 
+
+3.50 
+
+Rank 0
+2 processes
+
+It took 0.000027 seconds
+
+Rank 1
+
+It took 0.000016 seconds

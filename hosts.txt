@@ -1,0 +1,3 @@
+master slots=2 max-slots=2  # this will spawn 2 processes on master
+slave slots=4 max-slots=4   # this will spawn 4 processes on slave
+

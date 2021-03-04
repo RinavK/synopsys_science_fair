@@ -1,0 +1,10 @@
+#include <mpi.h>
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+
+int main (int argc, char *argv[]) {
+    //system("cat /dev/null > cores.txt");
+    system("nproc");
+    return 0; //End
+}
